@@ -95,8 +95,8 @@ In config header `jni/Includes/config.h`:
 - Perfare [Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
 - BrianGIG [Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper)
 
-```smali
+
  const-string v0, "il2cppdumper"
  
  invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
-```
+

@@ -94,7 +94,3 @@ In config header `jni/Includes/config.h`:
 # Credits
 - Perfare [Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
 - BrianGIG [Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper)
-- 
-...
-  WWWAAAN
-  ...

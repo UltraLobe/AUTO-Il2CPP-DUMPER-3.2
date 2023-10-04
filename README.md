@@ -96,7 +96,5 @@ In config header `jni/Includes/config.h`:
 - BrianGIG [Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper)
 
 
- const-string v0, "il2cppdumper"
- 
- invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
-
+ const-string v0, "il2cppdumper
+ invoke-static {v0}, Ljava/laLibrary(Ljava/lang/String;)V

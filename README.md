@@ -96,5 +96,8 @@ In config header `jni/Includes/config.h`:
 - BrianGIG [Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper)
 
 
- const-string v0, "il2cppdumper
- invoke-static {v0}, Ljava/laLibrary(Ljava/lang/String;)V
+ .field public static final LOGTAG:Ljava/lang/String; = "Ads"
+
+.field public static final TEST_EMULATOR:Ljava/lang/String; = "B3EEABB8EE11C2BE770B684D95219ECB"
+
+.field public static final VERSION:Ljava/lang/String; = "0.0.0"
